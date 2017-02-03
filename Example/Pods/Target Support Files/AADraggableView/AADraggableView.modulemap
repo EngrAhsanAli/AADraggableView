@@ -1,0 +1,6 @@
+framework module AADraggableView {
+  umbrella header "AADraggableView-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - AADraggableView (0.1.0)
+
+DEPENDENCIES:
+  - AADraggableView (from `../`)
+
+EXTERNAL SOURCES:
+  AADraggableView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  AADraggableView: 9ac61ce684d0256bc4ae854e8c2cd96d7b5c3c3a
+
+PODFILE CHECKSUM: 6ac046d9417c594f85816cbc36d6d3498b416e63
+
+COCOAPODS: 1.2.0
