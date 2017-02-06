@@ -42,30 +42,42 @@ You can define repositioning after dragging by following values:
 > View will stick with the edges with padding.
 
 ![](https://github.com/EngrAhsanAli/AADraggableView/blob/master/Screenshots/Sticky.gif)
+
+
 --   **free**
 
-> View will free to move in screen
+> View will free to move in whole screen
 
 
 ![](https://github.com/EngrAhsanAli/AADraggableView/blob/master/Screenshots/Free.gif)
+
+
 --  **edgesOnly**
 
 > View will stick with nearby edges only
 
 ![](https://github.com/EngrAhsanAli/AADraggableView/blob/master/Screenshots/EdgesOnly.gif)
+
+
 --  **topOnly**
 > View will stick with top edge
 
 
 ![](https://github.com/EngrAhsanAli/AADraggableView/blob/master/Screenshots/TopOnly.gif)
+
+
 --  **bottomOnly**
 > View will stick with bottom edge
 
 ![](https://github.com/EngrAhsanAli/AADraggableView/blob/master/Screenshots/BottomOnly.gif)
+
+
 --  **leftOnly**
 > View will stick with left edge
 
 ![](https://github.com/EngrAhsanAli/AADraggableView/blob/master/Screenshots/LeftOnly.gif)
+
+
 --  **rightOnly**
 > View will stick with right edge
 
