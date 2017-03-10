@@ -145,7 +145,7 @@ $ brew install carthage
 Then add the following line to your Cartfile:
 
 ```
-github "EngrAhsanAli/AADraggableView" 
+github "EngrAhsanAli/AADraggableView" "master"
 ```
 
 Then import the library in all files where you use it:
