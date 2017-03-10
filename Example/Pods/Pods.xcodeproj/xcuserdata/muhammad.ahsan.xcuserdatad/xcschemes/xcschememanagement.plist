@@ -4,17 +4,12 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>AADraggableView.xcscheme</key>
+		<key>AADraggableView.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
 		<key>Pods-AADraggableView_Example.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>Pods-AADraggableView_Tests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
