@@ -149,7 +149,7 @@ github "EngrAhsanAli/AADraggableView" "master"
 ```
 
 Then import the library in all files where you use it:
-```ruby
+```swift
 import AADraggableView
 ```
 
@@ -190,7 +190,7 @@ Make sure the module property is also set to  `AADraggableView`.
 You can set following properties in `viewDidLoad` method in your view controller.
 
 **Usage**:
-```
+```swift
 // IBOutlet for AADraggableView
 @IBOutlet weak var view: AADraggableView
 
