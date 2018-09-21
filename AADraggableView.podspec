@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
 s.name             = 'AADraggableView'
-s.version          = '0.1.0'
+s.version          = '1.0'
 s.summary          = 'AADraggableView is easy-to-use draggable views with options, written in Swift.'
 
 s.description      = <<-DESC

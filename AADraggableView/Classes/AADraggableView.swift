@@ -59,7 +59,7 @@ open class AADraggableView: UIView {
     /// View touch handling
     ///
     /// - Parameter sender: UIPanGestureRecognizer
-    func touchHandler(_ sender: UIPanGestureRecognizer) {
+    @objc func touchHandler(_ sender: UIPanGestureRecognizer) {
         
         sender.translateView(self)
         

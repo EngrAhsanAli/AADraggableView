@@ -153,7 +153,7 @@ extension UIPanGestureRecognizer {
         let xAxis = view.center.x + translation.x
         let yAxis = view.center.y + translation.y
         view.center = CGPoint(x: xAxis, y: yAxis)
-        setTranslation(CGPoint.zero, in: view)
+        setTranslation(.zero, in: view)
     }
     
 }

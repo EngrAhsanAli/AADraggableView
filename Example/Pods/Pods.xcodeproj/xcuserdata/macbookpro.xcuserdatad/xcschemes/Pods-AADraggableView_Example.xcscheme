@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0940"
+   LastUpgradeVersion = "0930"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "71AE0304288D48C228A0E2D57B4E6946"
-               BuildableName = "AADraggableView.framework"
-               BlueprintName = "AADraggableView"
+               BlueprintIdentifier = "7A5846459E9589600B669BF1AA0F1A18"
+               BuildableName = "Pods_AADraggableView_Example.framework"
+               BlueprintName = "Pods-AADraggableView_Example"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -45,9 +45,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "71AE0304288D48C228A0E2D57B4E6946"
-            BuildableName = "AADraggableView.framework"
-            BlueprintName = "AADraggableView"
+            BlueprintIdentifier = "7A5846459E9589600B669BF1AA0F1A18"
+            BuildableName = "Pods_AADraggableView_Example.framework"
+            BlueprintName = "Pods-AADraggableView_Example"
             ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
