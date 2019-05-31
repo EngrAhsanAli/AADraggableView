@@ -29,29 +29,29 @@
 
 /* Begin PBXFileReference section */
 		024A69464DCE819229865D73AD23EF0C /* Pods-AADraggableView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-AADraggableView_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		06CB8909ED21E0640F7E78253F333E7C /* Pods_AADraggableView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_AADraggableView_Example.framework; path = "Pods-AADraggableView_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		06CB8909ED21E0640F7E78253F333E7C /* Pods_AADraggableView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AADraggableView_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		10906FE0D5D18B5FB107C41F5410961D /* Pods-AADraggableView_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-AADraggableView_Example-umbrella.h"; sourceTree = "<group>"; };
 		2A4241A45497048C5929A8C3A660E2AC /* AADraggableView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AADraggableView.swift; path = AADraggableView/Classes/AADraggableView.swift; sourceTree = "<group>"; };
-		3856F1A858B4B11CAE67F493A488D731 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		3856F1A858B4B11CAE67F493A488D731 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		3CF1D7026B8DD31A90523440FDDF29D3 /* Pods-AADraggableView_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-AADraggableView_Example.modulemap"; sourceTree = "<group>"; };
-		3D793A2CB037DC267D9DCF395D9ACD6D /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		3D793A2CB037DC267D9DCF395D9ACD6D /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		531540817B6AD2B8763419FA5BA1DEF3 /* AADraggableView-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "AADraggableView-umbrella.h"; sourceTree = "<group>"; };
 		5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		64AA32E2291E5E31AC8F6C6DFC2C71CD /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8523512692417B6D15AEEA054AD64575 /* Pods-AADraggableView_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-AADraggableView_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		8E5D6E61FB1EEC2594ACED9DF8BFB98E /* Pods-AADraggableView_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-AADraggableView_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9412C2B0DDCE260E24A91D4D62CB63F6 /* AADraggableView-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "AADraggableView-prefix.pch"; sourceTree = "<group>"; };
 		9645A45E75F3B055852690714844F79B /* Pods-AADraggableView_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-AADraggableView_Example-resources.sh"; sourceTree = "<group>"; };
 		9BF95A0FBD537473F08FEA4598A14073 /* AADraggableView.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = AADraggableView.modulemap; sourceTree = "<group>"; };
 		AF546615E2B0D5FA50125792025341F5 /* Pods-AADraggableView_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-AADraggableView_Example-dummy.m"; sourceTree = "<group>"; };
 		B19B763348442B78F0EBF25E4C32D7B7 /* AADraggableView.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = AADraggableView.xcconfig; sourceTree = "<group>"; };
-		B497580E31677DC1E98EC528963D8FE5 /* AADraggableView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = AADraggableView.framework; path = AADraggableView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		B497580E31677DC1E98EC528963D8FE5 /* AADraggableView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = AADraggableView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5FFFFB1D072D042D0CAD046981B23A1 /* AADraggableView+Helper.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "AADraggableView+Helper.swift"; path = "AADraggableView/Classes/AADraggableView+Helper.swift"; sourceTree = "<group>"; };
 		D055233C9E42DD1D4F9F5D42A35CC825 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D5B2D63CEBE4E05FCBC94ED054096544 /* AADraggableView-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "AADraggableView-dummy.m"; sourceTree = "<group>"; };
 		D8510F714B4E38C5A5C748DEFC706A52 /* Pods-AADraggableView_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-AADraggableView_Example-frameworks.sh"; sourceTree = "<group>"; };
-		F9FFCBFA0627EDC4161733A4D49CA3D9 /* AADraggableView.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = AADraggableView.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		F9FFCBFA0627EDC4161733A4D49CA3D9 /* AADraggableView.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; path = AADraggableView.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		FED27E4117661EC586E5C4D09BF1BB22 /* Pods-AADraggableView_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-AADraggableView_Example.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -248,12 +248,18 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0930;
 				LastUpgradeCheck = 0930;
+				TargetAttributes = {
+					7BBE4404A414593E8314B3D4CBC014D5 = {
+						LastSwiftMigration = 1020;
+					};
+				};
 			};
 			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
@@ -342,8 +348,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -376,7 +381,7 @@
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -407,9 +412,8 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
-				SWIFT_VERSION = 4.0;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
